@@ -2,14 +2,20 @@
 
 #### Version 0.0.4
 
-[Shared Prettier config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for projects at Ideas On Purpose. Using this reduces redundant code in package.json and keeps coding preferences in sync across projects. 
+[Shared Prettier config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for projects at Ideas On Purpose. Using this reduces redundant code in package.json and keeps coding preferences in sync across projects.
 
 ## How to use
 
-Add this `prettier` key to a project's package.json file:
+Install this package:
+
+```sh
+npm install --save-dev @ideasonpurpose/prettier-config
+```
+
+Then add this `prettier` key to the project's package.json file:
 
 ```json
-  "prettier": "@ideasonpurpose/prettier-config"
+  "prettier": "@ideasonpurpose/prettier-config",
 ```
 
 ## Settings
