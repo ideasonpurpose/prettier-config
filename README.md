@@ -1,6 +1,6 @@
 # IOP's Prettier Config
 
-#### Version 0.0.3
+#### Version 0.0.4
 
 [Shared Prettier config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for projects at Ideas On Purpose. Using this reduces redundant code in package.json and keeps coding preferences in sync across projects. 
 

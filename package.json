@@ -1,6 +1,6 @@
 {
   "name": "@ideasonpurpose/prettier-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Common Prettier config for projects at Ideas On Purpose",
   "homepage": "https://github.com/ideasonpurpose/prettier-config#readme",
   "bugs": {
