@@ -1,0 +1,27 @@
+{
+  "plugins": ["@prettier/plugin-php"],
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "embeddedLanguageFormatting": "off"
+      }
+    },
+    {
+      "files": "*.php",
+      "options": {
+        "printWidth": 100,
+        "singleQuote": true,
+        "tabWidth": 4,
+        "trailingCommaPHP": true
+      }
+    }
+  ]
+}

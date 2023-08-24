@@ -1,0 +1,22 @@
+{
+  "name": "@ideasonpurpose/prettier-config",
+  "version": "0.0.1",
+  "description": "Common Prettier config for projects at Ideas On Purpose",
+  "main": "index.json",
+  "scripts": {
+    "version": "npx version-everything && git add -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideasonpurpose/prettier-config.git"
+  },
+  "author": "Ideas On Purpose (https://www.ideasonpurpose.com/)",
+  "contributors": [
+    "Joe Maller <joe@ideasonpurpose.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ideasonpurpose/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ideasonpurpose/prettier-config#readme"
+}
