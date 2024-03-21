@@ -33,7 +33,7 @@ Some of the settings included in this file:
 ### PHP
 
 - `printWidth`: `100`
-- `singleQuote: `true`
+- `singleQuote:` `true`
 - `tabWidth`: `4`,
 - `trailingCommaPHP`: `true`
 
