@@ -2,8 +2,8 @@
 
 #### Version 0.0.6
 
-![NPM Version](https://img.shields.io/npm/v/%40ideasonpurpose%2Fprettier-config?logo=npm)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ideasonpurpose/prettier-config/npm-publish.yml?logo=github&logoColor=white)
+[![NPM Version](https://img.shields.io/npm/v/%40ideasonpurpose%2Fprettier-config?logo=npm)](https://www.npmjs.com/package/@ideasonpurpose/prettier-config)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ideasonpurpose/prettier-config/npm-publish.yml?logo=github&logoColor=white)](https://github.com/ideasonpurpose/prettier-config/actions/workflows/npm-publish.yml)
 
 [Shared Prettier config](https://prettier.io/docs/en/configuration.html#sharing-configurations) for projects at Ideas On Purpose. Using this reduces redundant code in package.json and keeps coding preferences in sync across projects.
 
