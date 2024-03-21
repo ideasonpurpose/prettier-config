@@ -15,6 +15,13 @@
       }
     },
     {
+      "files": ["*.css", "*.scss"],
+      "options": {
+        "printWidth": 180,
+        "tabWidth": 2
+      }
+    },
+    {
       "files": "*.php",
       "options": {
         "printWidth": 100,
