@@ -1,6 +1,6 @@
 # IOP's Prettier Config
 
-#### Version 1.0.0
+#### Version 1.0.1
 
 [![NPM Version](https://img.shields.io/npm/v/%40ideasonpurpose%2Fprettier-config?logo=npm)](https://www.npmjs.com/package/@ideasonpurpose/prettier-config)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ideasonpurpose/prettier-config/npm-publish.yml?logo=github&logoColor=white)](https://github.com/ideasonpurpose/prettier-config/actions/workflows/npm-publish.yml)
