@@ -19,6 +19,9 @@
   "scripts": {
     "version": "npx version-everything && git add -u"
   },
+  "peerDependencies": {
+    "@prettier/plugin-php": "*"
+  },
   "version-everything": {
     "files": [
       "README.md"
